@@ -1,0 +1,4 @@
+dj-database-url==0.4.1
+Django==1.10.5
+django-authentication==0.1.5
+django-registration==2.2
